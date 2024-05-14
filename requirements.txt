@@ -1,0 +1,6 @@
+httpx
+asyncio
+pytest
+pytest-mock
+pytest-asyncio
+flask[async]
